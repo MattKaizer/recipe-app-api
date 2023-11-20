@@ -1,4 +1,4 @@
-readme.md# Recipe REST API
+# Recipe REST API
 
 This project is a simple REST API for managing recipes. It's built with Python and Django, containerized using Docker, and includes Swagger documentation.
 
